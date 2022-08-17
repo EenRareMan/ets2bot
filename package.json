@@ -1,0 +1,20 @@
+{
+  "name": "disc_bot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Nils",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.4.6",
+    "discord.js": "^13.10.2",
+    "ms": "^2.1.3"
+  }
+}
